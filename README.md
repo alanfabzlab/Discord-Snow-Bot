@@ -2,7 +2,7 @@
 
 # ⚡ DISCORD SNOWBOT ⚡
 
-<svg width="100%" height="4"><rect width="100%" height="4" rx="2" fill="url(#neon-grad)" /><defs><linearGradient id="neon-grad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#00F2FE" /><stop offset="50%" stop-color="#4FACFE" /><stop offset="100%" stop-color="#00F2FE" /></linearGradient></defs></svg>
+<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header](https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header)" width="100%" />
 
 [![Python](https://img.shields.io/badge/Python-3.14-00F2FE?style=for-the-badge&logo=python&logoColor=black)](https://python.org)
 [![Discord.py](https://img.shields.io/badge/Discord.py-2.x-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
@@ -11,7 +11,7 @@
 
 _An interactive Discord bot engineered in Python to process custom commands and deliver dynamic API content._
 
-<svg width="100%" height="4"><rect width="100%" height="4" rx="2" fill="url(#neon-grad)" /></svg>
+<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header](https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header)" width="100%" />
 
 </div>
 
@@ -20,7 +20,7 @@ _An interactive Discord bot engineered in Python to process custom commands and 
 - 💬 **`$hello`** — Sends a custom greeting message to the channel.
 - 🎭 **`$meme`** — Fetches and renders a random meme on demand using an external REST API.
 
-<svg width="100%" height="4"><rect width="100%" height="4" rx="2" fill="url(#neon-grad)" /></svg>
+<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header](https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header)" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -31,26 +31,28 @@ _An interactive Discord bot engineered in Python to process custom commands and 
 | **`requests`**      | HTTP library for fetching external API content |
 | **`python-dotenv`** | Environment variable management (`.env`)       |
 
-<svg width="100%" height="4"><rect width="100%" height="4" rx="2" fill="url(#neon-grad)" /></svg>
+<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header](https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header)" width="100%" />
 
 ## ⚡ Quick Setup
 
 ### 1. Clone & Install
 
-```bash
-git clone [https://github.com/alanfabzlab/Discord-Snow-Bot.git](https://github.com/alanfabzlab/Discord-Snow-Bot.git)
+<pre><code>git clone [https://github.com/alanfabzlab/Discord-Snow-Bot.git](https://github.com/alanfabzlab/Discord-Snow-Bot.git)
 cd Discord-Snow-Bot
-python3 -m pip install -r requirements.txt
-```
+python3 -m pip install -r requirements.txt</code></pre>
 
 ### 2. Environment Configuration
 
-Create a `.env` file in the project root:
+Create a <code>.env</code> file in the project root:
 
-```env
-DISCORD_TOKEN=your_discord_bot_token_here
+<pre><code>DISCORD_TOKEN=your_discord_bot_token_here</code></pre>
 
-3. Launch
-   Bash
-   python3 bot.py
-```
+### 3. Launch
+
+<pre><code>python3 bot.py</code></pre>
+
+<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header](https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:4facfe&height=4&section=header)" width="100%" />
+
+<div align="center">
+  <sub>Built with ❄️ by <a href="[https://github.com/alanfabzlab](https://github.com/alanfabzlab)">alanfabzlab</a></sub>
+</div>
