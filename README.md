@@ -2,7 +2,7 @@
 
 # ⚡ DISCORD SNOWBOT ⚡
 
-<img src="https://raw.githubusercontent.com/andrei-neagu/andrei-neagu/main/assets/line.gif" width="100%" height="3px" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 [![Python](https://img.shields.io/badge/Python-3.14-00F2FE?style=for-the-badge&logo=python&logoColor=black)](https://python.org)
 [![Discord.py](https://img.shields.io/badge/Discord.py-2.x-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
@@ -11,7 +11,7 @@
 
 _An interactive Discord bot engineered in Python to process custom commands and deliver dynamic API content._
 
-<img src="https://raw.githubusercontent.com/andrei-neagu/andrei-neagu/main/assets/line.gif" width="100%" height="3px" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
@@ -20,7 +20,7 @@ _An interactive Discord bot engineered in Python to process custom commands and 
 - 💬 **`$hello`** — Sends a custom greeting message to the channel.
 - 🎭 **`$meme`** — Fetches and renders a random meme on demand using an external REST API.
 
-<img src="https://raw.githubusercontent.com/andrei-neagu/andrei-neagu/main/assets/line.gif" width="100%" height="3px" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@ _An interactive Discord bot engineered in Python to process custom commands and 
 | **`requests`**      | HTTP library for fetching external API content |
 | **`python-dotenv`** | Environment variable management (`.env`)       |
 
-<img src="https://raw.githubusercontent.com/andrei-neagu/andrei-neagu/main/assets/line.gif" width="100%" height="3px" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## ⚡ Quick Setup
 
@@ -51,7 +51,7 @@ Create a <code>.env</code> file in the project root:
 
 <pre><code>python3 bot.py</code></pre>
 
-<img src="https://raw.githubusercontent.com/andrei-neagu/andrei-neagu/main/assets/line.gif" width="100%" height="3px" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
   <sub>Built with ❄️ by <a href="https://github.com/alanfabzlab">alanfabzlab</a></sub>
